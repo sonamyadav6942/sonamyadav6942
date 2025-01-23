@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.JS, Node.Js**
+- 🌱 I’m currently learning **AngularJS, React.JS, Node.Js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, C, C++, Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, C, C++, Python**
 
 - 📫 How to reach me **sonamyadavdos@gmail.com**
 

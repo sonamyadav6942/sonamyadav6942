@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, React.js, and Node.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, C, C++, and Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, SQL, C, C++, and Python**
 
 - 📫 How to reach me **sonamyadavdos@gmail.com**
 

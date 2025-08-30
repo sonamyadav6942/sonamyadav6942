@@ -1,4 +1,3 @@
-![@mr_c0d3r's Holopin board](https://wallpaperbat.com/img/8622050-github-wallpaper.jpg)
 <h1 align="center">Hi 👋, I'm Sonam</h1>
 <h3 align="center">Innovating with Frontend Magic</h3>
 

@@ -1,77 +1,179 @@
-<h1 align="center">Hi 👋, I'm Sonam</h1>
-<h3 align="center">Innovating with Frontend Magic</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h1 align="center">Hi 👋, I'm Sonam Kumari</h1>
 
-- 🌱 I’m currently learning **Angular, React.js, and Node.js**
+<h3 align="center">
+  Software Developer | Angular | React.js | TypeScript | Node.js | MongoDB
+</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, SQL, C, C++, and Python**
-
-- 📫 How to reach me **sonamyadavdos@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sonam-kumari-070800249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sonam-kumari-070800249/" height="30" width="40"/></a>
-<a href="mailto:sonamyadavdos@gmail.com">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email Me" height="30" width="30" />
-</a>
-<a href="https://twitter.com/Sonamku06021233" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter" height="30" width="30"/>
-
-</a>
-
-<a href="https://instagram.com/sonam_2303_" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="30" width="30" />
-</a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-</p>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sonamyadav6942&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sonamyadav6942&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonamyadav6942&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=Hacktoberfest2022-for-everyone&show_owner=true&theme=gruvbox_light)](https://github.com/omkarchoudhary/Hacktoberfest2022-for-everyone) -->
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  Building scalable applications, solving real-world problems, and continuously improving as a developer.
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sonamyadav6942&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sonam-kumari-070800249/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sonamyadavdos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/sonamyadav6942">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+## 👩‍💻 About Me
 
+I'm a **Software Developer with 2.5+ years of professional experience** building web applications using **Angular, React.js, TypeScript, JavaScript, and Node.js**.
 
+I enjoy working on real-world projects, developing reusable components, integrating APIs, debugging issues, and improving application performance.
 
+- 💻 Experienced in **Angular, React.js, TypeScript, JavaScript, and RxJS**
+- 🚀 Worked on enterprise applications and responsive web platforms
+- 🔗 Experienced in **REST API integration, reactive forms, and state management**
+- 🛠️ Backend exposure to **Node.js, Express.js, MongoDB, and Firebase**
+- 🧠 Interested in problem-solving, clean code, and application architecture
+- 🌱 Currently strengthening my backend development, system design, and AI knowledge
+- 📍 Based in **Gurugram, India**
+- 📫 Reach me at **sonamyadavdos@gmail.com**
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,scss,bootstrap,tailwind" alt="Frontend Skills"/>
+</p>
+
+**Technologies:** Angular, React.js, TypeScript, JavaScript, RxJS, HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Skills"/>
+</p>
+
+**Technologies:** Node.js, Express.js, MongoDB, MySQL, Firebase Firestore, REST APIs
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" alt="Programming Languages"/>
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" alt="Development Tools"/>
+</p>
+
+**Additional Tools:** PrimeNG, Angular CLI, Git, GitHub, Postman, VS Code, npm
+
+---
+
+## 💼 Professional Experience
+
+### Software Developer — BIBA Electronics Pvt. Ltd.
+**2026 – Present**
+
+Working on a React-based industrial electronics web platform.
+
+- Developed responsive product catalog pages with advanced filtering, sorting, searching, and pagination.
+- Integrated **Firebase Authentication and Firestore** for user accounts, saved addresses, and shopping cart functionality.
+- Built reusable React components for product details, account management, and navigation.
+- Implemented product image zoom, datasheet downloads, and dynamic product information.
+- Improved responsive layouts and user experience across desktop and mobile devices.
+
+### Software Developer — IDCLE Tech LLP
+**September 2024 – May 2026**
+
+Worked on an enterprise-level School Information Management System using Angular.
+
+- Developed and maintained application modules using **Angular 17, TypeScript, RxJS, and PrimeNG**.
+- Implemented reactive forms, custom validations, role-based interfaces, and REST API integration.
+- Worked on Attendance, Fees, Examination, Timetable, Student Management, and Lesson Planning modules.
+- Optimized component behavior, resolved production issues, and improved application performance.
+- Contributed to reusable UI components, data tables, dashboards, and reporting features.
+
+---
+
+## 🚀 Projects I've Worked On
+
+### 🏫 SIMS-Web — School Information Management System
+
+An enterprise web application designed to simplify school operations.
+
+**Tech Stack:** Angular 17, TypeScript, RxJS, PrimeNG, Node.js, MongoDB
+
+**Key Features:**
+- Student and teacher management
+- Attendance and leave management
+- Fee collection, payment plans, and dashboards
+- Examination and marks management
+- Timetable and lesson planning
+- Role-based access and dynamic forms
+- Reports with Excel and PDF exports
+
+### 🛒 Industrial Electronics Web Platform
+
+A responsive web platform for exploring industrial electronics products and managing customer accounts.
+
+**Tech Stack:** React.js, JavaScript, Firebase, Firestore, CSS3
+
+**Key Features:**
+- Dynamic product catalog with search and filters
+- Product listing and detail pages
+- Firebase authentication and user profiles
+- Shopping cart with Firestore persistence
+- Saved address management
+- Product image zoom and datasheet downloads
+- Responsive navigation and layouts
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonamyadav6942&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=sonamyadav6942&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonamyadav6942&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 What I'm Focusing On
+
+- 📚 Advanced Angular concepts and performance optimization
+- ⚛️ React.js and reusable component architecture
+- 🔧 Backend development with Node.js and MongoDB
+- 🧩 Data Structures, Algorithms, and problem-solving
+- 🤖 Exploring AI technologies and their practical applications
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing software development, sharing knowledge, and connecting with other developers.
+
+- 💼 **LinkedIn:** [Sonam Kumari](https://www.linkedin.com/in/sonam-kumari-070800249/)
+- 📧 **Email:** sonamyadavdos@gmail.com
+- 💻 **GitHub:** [sonamyadav6942](https://github.com/sonamyadav6942)
+
+---
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep improving.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonamyadav6942&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
